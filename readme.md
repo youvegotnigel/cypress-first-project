@@ -3,6 +3,7 @@
 npm init -y
 npm install cypress
 npx cypress open
+npx cypress run - run in cli mode
 ```
 
 # How to run test
