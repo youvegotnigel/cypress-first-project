@@ -6,7 +6,7 @@ npx cypress open
 ```
 
 # How to run test
-Tests should be saved under the "intergration" folder<br />
+Tests should be saved under the "cypress/intergration" folder<br />
 to run test type : "npx cypress open"<br />
 Some pre-tests are available under "examples" and saved under the "intergration" folder<br />
 
