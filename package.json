@@ -1,7 +1,7 @@
 {
   "name": "todomvc-tests",
   "version": "1.0.0",
-  "description": "",
+  "description": "```bash\r npm init -y\r npm install cypress\r npx cypress open\r npx cypress run - run in cli mode\r ```",
   "main": "index.js",
   "scripts": {
     "cypress": "cypress open",
@@ -12,5 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^3.8.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youvegotnigel/cypress-first-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/youvegotnigel/cypress-first-project/issues"
+  },
+  "homepage": "https://github.com/youvegotnigel/cypress-first-project#readme"
 }
